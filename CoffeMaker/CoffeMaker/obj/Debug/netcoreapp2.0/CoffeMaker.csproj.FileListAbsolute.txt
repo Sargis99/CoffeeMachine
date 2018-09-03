@@ -1,0 +1,10 @@
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/bin/Debug/netcoreapp2.0/CoffeMaker.deps.json
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/bin/Debug/netcoreapp2.0/CoffeMaker.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/bin/Debug/netcoreapp2.0/CoffeMaker.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/bin/Debug/netcoreapp2.0/CoffeMaker.dll
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/bin/Debug/netcoreapp2.0/CoffeMaker.pdb
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/obj/Debug/netcoreapp2.0/CoffeMaker.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/obj/Debug/netcoreapp2.0/CoffeMaker.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/obj/Debug/netcoreapp2.0/CoffeMaker.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/obj/Debug/netcoreapp2.0/CoffeMaker.dll
+/Users/ashotpetrosyan/Desktop/CoffeMaker/CoffeMaker/obj/Debug/netcoreapp2.0/CoffeMaker.pdb
